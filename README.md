@@ -19,8 +19,10 @@ Este portafolio tiene como objetivo mostrar mis habilidades en:
 - Canva, Photoshop, Illustrator
 - GitHub Pages para la visualización del portafolio
 
-## **📄 Ver Portafolio en PDF**
-👉 [Haz clic aquí para ver el portafolio completo en PDF](https://github.com/leydivalencia/portfolio/blob/main/Portafolio%203/Portafolio(3).pdf?raw=true)
+## 📄 Ver o Descargar Portafolio en PDF
+
+📖 [Ver mi portafolio PDF](https://github.com/leydivalencia/Portfolio-/blob/ca8af2664d82b31fc00dd895b6e3e27c86ab6014/Portafolio%20%20(3).pdf?raw=true)  
+📥 [Descargar mi portafolio PDF](https://raw.githubusercontent.com/leydivalencia/Portfolio-/ca8af2664d82b31fc00dd895b6e3e27c86ab6014/Portafolio%20%20(3).pdf)
 
 ## **📩 Contacto**
 📧 **Correo**: valencialeydi311@gmail.com  
