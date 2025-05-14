@@ -21,7 +21,7 @@ Este portafolio tiene como objetivo mostrar mis habilidades en:
 
 ## 📄 Ver o Descargar Portafolio en PDF
 
-📖 [Ver mi portafolio PDF](https://github.com/leydivalencia/Portfolio-/blob/ca8af2664d82b31fc00dd895b6e3e27c86ab6014/Portafolio%20%20(3).pdf?raw=true)  
+📖 [Ver mi portafolio PDF](https://github.com/leydivalencia/Portfolio-/blob/ffec6bc6fe1bcd0265569c91346e41bfedc13d91/Portafolio%20%20(3).pdf)
 📥 [Descargar mi portafolio PDF](https://raw.githubusercontent.com/leydivalencia/Portfolio-/ca8af2664d82b31fc00dd895b6e3e27c86ab6014/Portafolio%20%20(3).pdf)
 
 ## **📩 Contacto**
